@@ -1,0 +1,30 @@
+.d-flex {
+    display: flex ;
+    justify-content: center;
+}
+
+.label-sty {
+   font-family: fantasy;
+   font-size: 25px;
+   margin-bottom: 25px;
+}
+    
+.label-lyt {
+    display: flex;
+}
+
+.input-sty {
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 3px;
+    border: none;
+}
+
+.input-btn-sty {
+    padding: 15px 25px;
+    font-family: verdana;
+    font-weight: bold;
+    background-color: red;
+    border: none;
+    border-radius: 4px;
+}

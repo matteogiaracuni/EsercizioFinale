@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.title {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
+}
+
